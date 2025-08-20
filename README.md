@@ -3,7 +3,7 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Rede:
-- [Raimundo Neto - Linkedin](https://www.linkedin.com/in/raimundo-nazareno-concei%C3%A7%C3%A3o-neto-853083195/)
+- [Raimundo Neto - Linkedin](https://www.linkedin.com/in/RaimundoNCN/)
 
 ### Tecnologias que uso nos meu projetos:
 
